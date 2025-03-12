@@ -47,3 +47,5 @@ const handleChange = (e: any) => {
 
 <style scoped></style>
 ```
+
+console.log('=============', fetch)
